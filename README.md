@@ -30,4 +30,8 @@ bold/bright:
 - [@HeCodes2Much](https://github.com/HeCodes2Much) -- <wayne6324@gmail.com> [https://linuxrepos.org/] -- early member, admin
 - [@FraSharp](https://github.com/FraSharp) -- <f.duca00@gmail.com> for personal purposes and <s23265@iisve.it> for official/work purposes [https://frasharp.onuniverse.com/] -- early member, admin
 
+## Unofficial contributors
+
+- [@CelestiaKai](https://github.com/CelestiaKai) -- <celestiafan1@gmail.com> [https://qqquestionmmmark.netlify.app/] -- contributed (created) https://github.com/coffee-theme/coffee.betterdiscord (the coffee theme for betterdiscord plugin for the proprietary discord client)
+
 Want to join? Drop one of the admins (preferrably the main maintainer, ari.web.xyz@gmail.com) an email and let us know :)
