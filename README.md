@@ -23,3 +23,11 @@ bold/bright:
     cyan    = #7ca296
     white   = #ddd0c0
 ```
+
+# Our members
+
+- [@TruncatedDinosour](https://ari.lt/gh) -- <ari.web.xyz@gmail.com> [https://ari.lt/] -- the founder and main maintainer of this project
+- [@HeCodes2Much](https://github.com/HeCodes2Much) -- <wayne6324@gmail.com> [https://linuxrepos.org/] -- early member, admin
+- [@FraSharp](https://github.com/FraSharp) -- <f.duca00@gmail.com> for personal purposes and <s23265@iisve.it> for official/work purposes [https://frasharp.onuniverse.com/] -- early member, admin
+
+Want to join? Drop one of the admins (preferrably the main maintainer, ari.web.xyz@gmail.com) an email and let us know :)
